@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Eduardo Ulisses.  I'm a studant of Software Engineering from FIAP.  I live in São Paulo, Brazil<br><br>- 🔭 I’m working as my personal projects, i dont have a job right não<br>- 📚 I'm currently learning JavaScript and Computacional Thinking<br>- ⚡ In my free time I study in Alura and try to beat the bosses in Sekiro.</p>
+<p align="left">My name is Eduardo Ulisses.  I'm a studant of Software Engineering from FIAP.  I live in São Paulo, Brazil<br><br>- 🔭 I’m working as my personal projects.<br>- 📚 I'm currently learning JavaScript and Computacional Thinking<br>- ⚡ In my free time I study in Alura and try to beat the bosses in Sekiro.</p>
 
 ###
 
