@@ -1,51 +1,57 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Olá, sou Eduardo Ulisses 👋</h1>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-ulisses" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## Sobre mim
 
-###
+- 💼 Desenvolvedor focado em front-end / full-stack com paixão por criar interfaces limpas, responsivas e ótimas experiências de usuário.  
+- 🎓 Sempre aprendendo: gosto de explorar novas tecnologias e boas práticas.  
+- 🚀 Projetos que resolvem problemas reais, código bem organizado e entrega constante me motiva bastante.
 
-<h1 align="center">Hi there 👋</h1>
+---
 
-###
+## 🛠 Tecnologias & Linguagens
 
-<h3 align="left">👩‍💻  About Me</h3>
+Aqui estão as linguagens que mais uso, baseadas nas minhas contribuições públicas do GitHub:
 
-###
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesE&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/UlissesE)  
+> *Provavelmente algo como:*  
+> HTML — ~25%  
+> CSS — ~20%  
+> JavaScript — ~20%  
+> Python — ~15%  
+> React — ~20%  
 
-<p align="left">My name is Eduardo Ulisses.  I'm a studant of Software Engineering from FIAP.  I live in São Paulo, Brazil<br><br>- 🔭 I’m working as my personal projects.<br>- 📚 I'm currently learning JavaScript and Computacional Thinking<br>- ⚡ In my free time I study in Alura and try to beat the bosses in Sekiro.</p>
+---
 
-###
+## ⚙️ Ferramentas & Frameworks que adoro usar
 
-<h3 align="left">🛠 Language and tools</h3>
+- Front-end: React, HTML5, CSS3 / Sass  
+- JavaScript moderno (ES6+), DOM, APIs Web  
+- Back-end / scripts: Python  
+- Ferramentas de versionamento: Git / GitHub  
+- Prefiro escrever código limpo, documentado e com testes quando possível
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+## 📊 Meus Stats no GitHub
 
-###
+[![Meu GitHub Stats](https://github-readme-stats.vercel.app/api?username=UlissesE&show_icons=true&theme=tokyonight)](https://github.com/UlissesE)
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 🌐 Fale comigo
+
+| Plataforma | Contato |
+|------------|---------|
+| LinkedIn | [Eduardo Ulisses](https://www.linkedin.com/in/eduardo-ulisses) |
+| Email | eduardoulisses2006@gmail.com |
+
+---
+
+## 🔭 O que estou fazendo agora
+
+- Melhorando meu portfolio pessoal  
+- Aprendendo mais sobre testes automatizados (frontend e backend)  
+- Construindo um projeto com React + API em Python  
+
