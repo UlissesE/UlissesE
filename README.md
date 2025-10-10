@@ -15,12 +15,6 @@
 Aqui estão as linguagens que mais uso, baseadas nas minhas contribuições públicas do GitHub:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesE&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/UlissesE)  
-> *Provavelmente algo como:*  
-> HTML — ~25%  
-> CSS — ~20%  
-> JavaScript — ~20%  
-> Python — ~15%  
-> React — ~20%  
 
 ---
 
