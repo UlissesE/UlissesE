@@ -42,7 +42,7 @@
   <h2>📊 My GitHub Status</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=UlissesE&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
        alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesE&layout=compact&theme=tokyonight&hide_border=false" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesE&layout=compact&langs_count=7&theme=tokyonight&hide=HTML,CSS" 
        alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com?user=UlissesE&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
